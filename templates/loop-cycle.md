@@ -2,6 +2,8 @@
 
 Created by Micker / Ghoscro for HerLove, as part of the Micker Method.
 
+Origin product: HerLove (https://herlove.ai).
+
 HER = Human intent / Evidence / Review.
 
 ```markdown

@@ -2,6 +2,8 @@
 
 Created by Micker / Ghoscro for HerLove, as part of the Micker Method.
 
+Origin product: HerLove (https://herlove.ai).
+
 Use this model when deciding what to share.
 
 ## The 30 / 20 / 50 Rule

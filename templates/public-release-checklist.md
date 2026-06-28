@@ -2,6 +2,8 @@
 
 Created by Micker / Ghoscro for HerLove, as part of the Micker Method.
 
+Origin product: HerLove (https://herlove.ai).
+
 Use this before publishing AI-agent workflows, demos, templates, or code.
 
 ## Layer

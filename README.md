@@ -4,6 +4,8 @@ A tiny operating loop for AI agents that need to keep long tasks aligned, verifi
 
 Created by **Micker / Ghoscro** for **HerLove**, as part of the **Micker Method** for practical AI-agent workflows.
 
+Origin product: **HerLove** ([herlove.ai](https://herlove.ai)).
+
 **HER** means **Human intent / Evidence / Review**.
 
 > Preserve the spark. Choose the smallest useful next action. Verify what can be verified. Let Strict-PM attack the claim, not the person.
@@ -25,7 +27,7 @@ Her LOOP-SOP is a one-page responsibility loop for avoiding that.
 
 Her LOOP-SOP comes from the Micker Method and the HerLove product lab: a practical approach to building AI-agent workflows that preserve the original spark, act in small verified slices, and use an independent critique pass before claiming completion.
 
-The public version keeps the reusable method and templates while excluding private memory, user data, credentials, deployment details, and full automation loops.
+The public version keeps the reusable method and templates from HerLove while excluding private memory, user data, credentials, deployment details, and full automation loops.
 
 ## The Minimal Loop
 
