@@ -2,7 +2,7 @@
 
 Created by Micker / Ghoscro for HerLove, as part of the Micker Method.
 
-HER = Human intent · Evidence · Review.
+HER = Human intent / Evidence / Review.
 
 ```markdown
 ## LOOP Cycle

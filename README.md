@@ -4,7 +4,7 @@ A tiny operating loop for AI agents that need to keep long tasks aligned, verifi
 
 Created by **Micker / Ghoscro** for **HerLove**, as part of the **Micker Method** for practical AI-agent workflows.
 
-**HER** means **Human intent · Evidence · Review**.
+**HER** means **Human intent / Evidence / Review**.
 
 > Preserve the spark. Choose the smallest useful next action. Verify what can be verified. Let Strict-PM attack the claim, not the person.
 
