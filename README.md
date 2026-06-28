@@ -1,8 +1,10 @@
-# Tongxin LOOP-SOP
+# Her LOOP-SOP
 
 A tiny operating loop for AI agents that need to keep long tasks aligned, verifiable, and safe.
 
-Created by **Micker / Ghoscro** as part of the **Micker Method** for practical AI-agent workflows.
+Created by **Micker / Ghoscro** for **HerLove**, as part of the **Micker Method** for practical AI-agent workflows.
+
+**HER** means **Human intent · Evidence · Review**.
 
 > Preserve the spark. Choose the smallest useful next action. Verify what can be verified. Let Strict-PM attack the claim, not the person.
 
@@ -17,11 +19,11 @@ Long-running AI agent work often fails in the same boring ways:
 - A dry run is accidentally described as a real result.
 - The agent optimizes the visible checklist while forgetting the original goal.
 
-Tongxin LOOP-SOP is a one-page responsibility loop for avoiding that.
+Her LOOP-SOP is a one-page responsibility loop for avoiding that.
 
 ## Origin
 
-Tongxin LOOP-SOP comes from the Micker Method: a practical approach to building AI-agent workflows that preserve the original spark, act in small verified slices, and use an independent critique pass before claiming completion.
+Her LOOP-SOP comes from the Micker Method and the HerLove product lab: a practical approach to building AI-agent workflows that preserve the original spark, act in small verified slices, and use an independent critique pass before claiming completion.
 
 The public version keeps the reusable method and templates while excluding private memory, user data, credentials, deployment details, and full automation loops.
 

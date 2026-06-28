@@ -1,6 +1,6 @@
 # Open Source Without Giving Away The Moat
 
-Created by Micker / Ghoscro as part of the Micker Method.
+Created by Micker / Ghoscro for HerLove, as part of the Micker Method.
 
 Use this model when deciding what to share.
 

@@ -1,6 +1,6 @@
 # Public Release Checklist
 
-Created by Micker / Ghoscro as part of the Micker Method.
+Created by Micker / Ghoscro for HerLove, as part of the Micker Method.
 
 Use this before publishing AI-agent workflows, demos, templates, or code.
 

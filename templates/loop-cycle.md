@@ -1,6 +1,8 @@
-# LOOP Cycle Template
+# Her LOOP Cycle Template
 
-Created by Micker / Ghoscro as part of the Micker Method.
+Created by Micker / Ghoscro for HerLove, as part of the Micker Method.
+
+HER = Human intent · Evidence · Review.
 
 ```markdown
 ## LOOP Cycle
