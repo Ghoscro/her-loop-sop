@@ -1,5 +1,7 @@
 # Open Source Without Giving Away The Moat
 
+Created by Micker / Ghoscro as part of the Micker Method.
+
 Use this model when deciding what to share.
 
 ## The 30 / 20 / 50 Rule

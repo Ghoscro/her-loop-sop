@@ -1,5 +1,7 @@
 # LOOP Cycle Template
 
+Created by Micker / Ghoscro as part of the Micker Method.
+
 ```markdown
 ## LOOP Cycle
 
